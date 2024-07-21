@@ -1,0 +1,11 @@
+.head-left .head-subtitle {
+    background: #FFEEDE;
+    color: #FB9431;
+    font-weight: bold;
+    padding: 7px 20px;
+    border-radius: 20px;
+}
+
+.head-title h1 {
+    font-size: 50px;
+}
